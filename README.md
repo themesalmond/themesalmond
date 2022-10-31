@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**themesalmond/themesalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Buy More Premium Moodle Theme
+- https://shop.themesalmond.com/
+- https://almondthemes.lemonsqueezy.com/
 
-Here are some ideas to get you started:
+## More Almond Themes
+- https://www.themesalmond.com/
+- https://demo.themesalmond.com/
+- https://shop.themesalmond.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Buy me a coffee
+
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
+
+<a href="https://www.buymeacoffee.com/almondthemes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
