@@ -8,6 +8,8 @@
 - https://www.themesalmond.com/
 - https://shop.themesalmond.com/
 
-
+FOR THE LATEST VERSION (ALMONDB FREE MOODLE THEME) , PLEASE DOWNLOAD FROM MOODLE OFFICIAL PAGE !!
+==================
+https://moodle.org/plugins/theme_almondb
 
 
